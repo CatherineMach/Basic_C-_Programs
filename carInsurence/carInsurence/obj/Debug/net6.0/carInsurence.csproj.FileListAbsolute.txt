@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\bin\Debug\net6.0\carInsurence.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\bin\Debug\net6.0\carInsurence.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\bin\Debug\net6.0\carInsurence.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\bin\Debug\net6.0\carInsurence.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\bin\Debug\net6.0\carInsurence.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\refint\carInsurence.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\carInsurence.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\carInsurence\carInsurence\obj\Debug\net6.0\ref\carInsurence.dll
