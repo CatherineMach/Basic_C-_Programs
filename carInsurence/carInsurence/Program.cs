@@ -5,11 +5,11 @@ class Program
     static void Main()
     {
         Console.WriteLine("What is your age?");
-        Console.WriteLine("24");
+        int age1 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Have you ever had a DUI");
-        Console.WriteLine("No");
+        bool help = Convert.ToBoolean(Console.ReadLine());
         Console.WriteLine("How many speeding tickets do you have?");
-        Console.WriteLine("Zero");
+        int ticket = Convert.ToInt32(Console.ReadLine());
 
         int age = 24;
         bool hadDUI = false;
