@@ -17,14 +17,20 @@ class Program
         int hours2 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Annual salary of Person 1");
         int salary = Convert.ToInt32(Console.ReadLine());
+
+        int salary1 = hourly * hours * 52;
+        Console.WriteLine("Annual salary of Person 1: " + salary);
         Console.WriteLine("Annual salary of Person 2");
         int salary2 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Does Person 1 make more money than Person 2?");
-        
-        int Person1 = 31200;
-        int Person2 = 41600;
 
-        bool moreMoney = Person1 > Person2;
+        int salary2 = hourly * hours * 52;
+        Console.WriteLine("Annual salary of Person 2: " + salary);
+        Console.WriteLine("Does Person 1 make more money than Person 2?");
+
+
+
+
+        bool moreMoney = salary > salary2;
         Console.WriteLine(moreMoney);
 
 
