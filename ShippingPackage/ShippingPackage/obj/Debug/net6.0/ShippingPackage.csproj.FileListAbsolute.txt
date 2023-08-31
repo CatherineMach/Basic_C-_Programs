@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\bin\Debug\net6.0\ShippingPackage.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\bin\Debug\net6.0\ShippingPackage.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\bin\Debug\net6.0\ShippingPackage.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\bin\Debug\net6.0\ShippingPackage.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\bin\Debug\net6.0\ShippingPackage.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\refint\ShippingPackage.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ShippingPackage.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ShippingPackage\ShippingPackage\obj\Debug\net6.0\ref\ShippingPackage.dll
