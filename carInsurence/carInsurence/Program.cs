@@ -15,7 +15,7 @@ class Program
 
 
 
-        bool insurence = (age >= 15 && hadDUI && tickets);
+        bool insurence = ((age >= 15) && !hadDUI && (tickets <= 3));
         Console.WriteLine(insurence);
         Console.ReadLine();
 

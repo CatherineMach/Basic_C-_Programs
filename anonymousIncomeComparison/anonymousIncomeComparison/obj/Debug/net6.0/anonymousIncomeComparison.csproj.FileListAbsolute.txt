@@ -1,8 +1,5 @@
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.exe
-C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.deps.json
-C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.runtimeconfig.json
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.dll
-C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.pdb
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.AssemblyInfoInputs.cache
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.AssemblyInfo.cs
@@ -10,5 +7,8 @@ C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anon
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.dll
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\refint\anonymousIncomeComparison.dll
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\net6.0\anonymousIncomeComparison.pdb
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\anonymousIncomeComparison.genruntimeconfig.cache
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\net6.0\ref\anonymousIncomeComparison.dll

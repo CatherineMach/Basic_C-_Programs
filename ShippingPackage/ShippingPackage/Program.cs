@@ -40,11 +40,12 @@ class Program
             }
             else
             {
-            int totalCost = totalDimensions * weight / 100;
-            }
-            Console.WriteLine("$" + totalCost);
+                int totalCost = totalDimensions * weight / 100;
 
-            Console.ReadLine();
+                Console.WriteLine("$" + totalCost);
+
+                Console.ReadLine();
+            }
         }
     }
 
