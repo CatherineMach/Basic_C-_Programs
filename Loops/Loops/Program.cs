@@ -53,6 +53,14 @@ namespace Loops
             }
             while (!isGuessed);
 
+            int n = 0;
+            while (n < 5)
+            {
+                Console.Write(n);
+                n++;
+            }
+
+
             Console.ReadLine();
          }
     }
