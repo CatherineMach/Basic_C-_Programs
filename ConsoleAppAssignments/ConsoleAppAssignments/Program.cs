@@ -28,13 +28,38 @@ class Program
         //end of assignment 1
 
         //start of assignment 2
-        while (true)
+        int x = 0;
+        while (x < 3)
         {
-            Console.WriteLine("Infinite Loop:D (hit enter)");
-            Console.ReadLine();
+            Console.WriteLine(x);
+
         }
-        
-        
+        //end of assignment 2
+        //start of assignment 3
+        for (int i = 0; i < 2; i++)
+        {
+            Console.WriteLine(i);
+        }
+        for (int i = 0; i <= 2; i++)
+        {
+            Console.WriteLine(i);
+        }
+        //end of assignment 3
+        //start of assignment 4
+        List<string> shapes = new List<string>()
+        {
+            "square", "rectangle", "oval", "circle", "triangle"
+        };
+        Console.WriteLine("write down a shape");
+        string userText2 = Console.ReadLine();
+        if (userText2 = 0 && userText2 >= shapes.Count)
+        {
+            Console.WriteLine("That shape isnt in the list");
+        }
+        else
+        {
+            Console.WriteLine(shapes[userText2]);
+        }
     }
 
 }
