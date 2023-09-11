@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\bin\Debug\net6.0\ConsoleAppAssignments.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\bin\Debug\net6.0\ConsoleAppAssignments.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\bin\Debug\net6.0\ConsoleAppAssignments.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\bin\Debug\net6.0\ConsoleAppAssignments.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\bin\Debug\net6.0\ConsoleAppAssignments.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\refint\ConsoleAppAssignments.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ConsoleAppAssignments.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignments\ConsoleAppAssignments\obj\Debug\net6.0\ref\ConsoleAppAssignments.dll
