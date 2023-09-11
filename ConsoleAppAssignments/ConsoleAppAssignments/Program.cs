@@ -28,7 +28,11 @@ class Program
         //end of assignment 1
 
         //start of assignment 2
-        Console.WriteLine("An infinite loop");
+        while (true)
+        {
+            Console.WriteLine("Infinite Loop:D (hit enter)");
+            Console.ReadLine();
+        }
         
         
     }
