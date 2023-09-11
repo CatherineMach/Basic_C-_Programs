@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using System.Linq;
-
+using System.IO.Pipes;
 
 class Program
 {
@@ -14,7 +14,10 @@ class Program
         string[] Colors = new string[] { "red", "orange", "yellow", "green", "blue" };
         Console.WriteLine("input some text");
         string userText = Console.ReadLine();
-
+        for (int i = 0; i < Colors.Length; i++)
+        {
+            Colors[i] = Colors[i] = userText;
+        }
         do
         {
             switch (Colors)
@@ -46,9 +49,10 @@ class Program
             Console.ReadLine();
         }
         while (true);
+        //end of assignment 1
 
-
-        
+        //start of assignment 2
+        Console.WriteLine("An infinite loop");
         
         
     }
