@@ -67,7 +67,46 @@ class Program
                 }
             }
         }
+        //end of assignment 4
         Console.ReadLine();
+        //start of assignment 5
+        List<string> flower = new List<string>()
+        {
+            "rose", "rose", "sunflower", "bluebell"
+        };
+        Console.WriteLine("select a flower to search in the list");
+        string userText3 = Console.ReadLine();
+        if (!flower.Contains(userText3))
+        {
+            Console.WriteLine("That shape isn't on the list");
+        }
+        else
+        {
+            for (int i = 0; i < flower.Count; i++)
+            {
+                if (flower[i] == userText3)
+                {
+                    Console.WriteLine(flower[i] + " at index: " + i);
+
+                }
+            }
+        }
+        Console.ReadLine();
+        //end of assignment 5
+
+        //start of assignment 6
+        char[] letter = { 'A', 'A', 'C', 'C', 'A' };
+        int vowel = 0, alphabet = 0;
+        foreach (char l in letter)
+        {
+            if (l == 'A')
+                vowel++;
+            else if (l == 'C')
+                alphabet++;
+        }
+        Console.WriteLine("Number of vowels = {0}", vowel);
+        Console.WriteLine("Number of alphabetical words = {0}", alphabet);
+        //end of assignment 6
     }
    
 }
