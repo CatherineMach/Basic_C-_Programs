@@ -32,7 +32,7 @@ class Program
         while (x < 3)
         {
             Console.WriteLine(x);
-
+            x++;
         }
         //end of assignment 2
         //start of assignment 3
@@ -52,14 +52,22 @@ class Program
         };
         Console.WriteLine("write down a shape");
         string userText2 = Console.ReadLine();
-        if (userText2 = 0 && userText2 >= shapes.Count)
+        if (!shapes.Contains(userText2))
         {
-            Console.WriteLine("That shape isnt in the list");
+            Console.WriteLine("That shape isn't on the list");
         }
         else
         {
-            Console.WriteLine(shapes[userText2]);
+            for (int i = 0;i < shapes.Count;i++)
+            {
+                if (shapes[i] == userText2)
+                {
+                    Console.WriteLine(shapes[i] + " at index: " + i);
+                    break;
+                }
+            }
         }
+        Console.ReadLine();
     }
-
+   
 }
