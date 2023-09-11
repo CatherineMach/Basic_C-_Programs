@@ -16,39 +16,15 @@ class Program
         string userText = Console.ReadLine();
         for (int i = 0; i < Colors.Length; i++)
         {
-            Colors[i] = Colors[i] = userText;
+            Colors[i] = Colors[i] + userText;
         }
-        do
+        for (int i = 0; i < Colors.Length; i++)
         {
-            switch (Colors)
-            {
-                case 0:
-                    Console.WriteLine(Colors[0] + userText);
-                    break;
-
-                case 1:
-                    Console.WriteLine(Colors[1] + userText);
-                    break;
-
-                case 2:
-                    Console.WriteLine(Colors[2] + userText);
-                    break;
-
-                case 3:
-                    Console.WriteLine(Colors[3] + userText);
-                    break;
-
-                case 4:
-                    Console.WriteLine(Colors[4] + userText);
-                    break;
-
-                default:
-                    Console.WriteLine(Colors + userText);
-                    break;
-            }
-            Console.ReadLine();
+            Console.WriteLine(Colors[i]);
         }
-        while (true);
+        Console.ReadLine();
+
+
         //end of assignment 1
 
         //start of assignment 2
