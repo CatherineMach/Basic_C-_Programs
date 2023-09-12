@@ -17,9 +17,21 @@ class Program
         }
         catch (FormatException ex)
         {
+            Console.WriteLine("Please type a whole number");
+        }
+        catch (DivideByZeroException ex)
+        {
+            Console.WriteLine("Please don't divide by zero");
+        }
+        catch (Exception ex)
+        {
             Console.WriteLine(ex.Message);
         }
-        Console.ReadLine();
+        finally
+        {
+            Console.ReadLine();
+        }
+        
     }
 
 }
