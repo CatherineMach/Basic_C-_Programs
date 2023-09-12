@@ -95,17 +95,20 @@ class Program
         //end of assignment 5
 
         //start of assignment 6
-        char[] letter = { 'A', 'A', 'C', 'C', 'A' };
-        int vowel = 0, alphabet = 0;
-        foreach (char l in letter)
+        List<string> myList = new List<string>() { "A", "B", "C", "D", "A" };
+        List<string> dupList = new List<string>();
+        foreach (string item in myList) 
         {
-            if (l == 'A')
-                vowel++;
-            else if (l == 'C')
-                alphabet++;
+            if (dupList.Contains(item))
+            {
+                Console.WriteLine(item + " - this item is a duplicate");
+            }
+            else
+            {
+                Console.WriteLine(item + " - this item is unique");
+                dupList.Add(item);
+            }
         }
-        Console.WriteLine("Number of vowels = {0}", vowel);
-        Console.WriteLine("Number of alphabetical words = {0}", alphabet);
         //end of assignment 6
     }
    
