@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\net6.0\CallingMethods.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\net6.0\CallingMethods.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\net6.0\CallingMethods.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\net6.0\CallingMethods.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\net6.0\CallingMethods.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\refint\CallingMethods.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\CallingMethods.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\net6.0\ref\CallingMethods.dll
