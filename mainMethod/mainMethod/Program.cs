@@ -14,8 +14,8 @@ namespace mainMethod
 
 
             Console.WriteLine(obj.MathMethod(4));
-            Console.WriteLine(obj.MathMethod(3.4m);
-            Console.WriteLine(obj.MathMethod("33");
+            Console.WriteLine(obj.MathMethod(3.4m));
+            Console.WriteLine(obj.MathMethod("33"));
         }
     }
 }
