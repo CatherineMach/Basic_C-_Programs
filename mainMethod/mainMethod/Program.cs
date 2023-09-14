@@ -12,13 +12,10 @@ namespace mainMethod
         {
             myClass obj = new myClass();
 
-            Console.WriteLine("Enter a number to use for math equations");
-            int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(number + " plus 5 is " + obj.Add(number));
-            Console.WriteLine(number + " subtract by 5 is " + obj.Subtract(number));
-            Console.WriteLine(number + " divided by 2 is " + obj.Divide(number));
-            Console.WriteLine(number + " multiplied by 2 is " + obj.Multiply(number));
+            Console.WriteLine(obj.MathMethod(4));
+            Console.WriteLine(obj.MathMethod(3.4m);
+            Console.WriteLine(obj.MathMethod("33");
         }
     }
 }

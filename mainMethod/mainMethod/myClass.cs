@@ -8,24 +8,21 @@ namespace mainMethod
 {
     public class myClass
     {
-        public int Add(int num)
+        public int MathMethod(int num)
         {
-            return num + 5;
+            return num + 7;
         }
 
-        public int Subtract(int num)
+        public int MathMethod(decimal num)
         {
-            return num - 5;
+            return Convert.ToInt32(num) + 5;
         }
 
-        public int Divide(int num)
+        public int MathMethod(string num)
         {
-            return num / 2;
+            Console.WriteLine("33");
+            return Convert.ToInt32(num);
         }
 
-        public int Multiply(int num)
-        {
-            return num * 2;
-        }
     }
 }
