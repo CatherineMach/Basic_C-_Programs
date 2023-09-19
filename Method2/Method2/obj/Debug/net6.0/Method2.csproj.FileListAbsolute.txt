@@ -1,0 +1,4 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method2\Method2\obj\Debug\net6.0\Method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method2\Method2\obj\Debug\net6.0\Method2.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method2\Method2\obj\Debug\net6.0\Method2.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method2\Method2\obj\Debug\net6.0\Method2.csproj.CoreCompileInputs.cache
