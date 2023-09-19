@@ -8,24 +8,12 @@ namespace Method2
 {
     public class Class1
     {
-        public static void Sum(int firstNum, int secondNum, params object[] restOfNums)
+        public int Sum(int firstNum, int secondNum=5)
         {
             int result = firstNum + secondNum;
-            if (secondNum != null)
-            {
-                foreach (int i in restOfNums)
-                   {
-                      result += i;
-                   }
-            }
             
-
-            Console.WriteLine("Total is... " + result.ToString());
+            return result;
         }
 
-        public static void Main()
-        {
-            
-        }
     }
 }
