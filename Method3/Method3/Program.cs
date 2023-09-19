@@ -17,9 +17,7 @@ namespace Method3
             int firstNum = Convert.ToInt32(Console.ReadLine());
             int secondNum = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(Total.Nums(firstNum, secondNum));
 
-            Console.WriteLine(Total.Nums(firstNum));
 
             static void Numbers (int firstNum, int secondNum)
             {
