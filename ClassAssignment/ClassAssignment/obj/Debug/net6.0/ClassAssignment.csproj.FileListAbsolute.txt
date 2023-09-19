@@ -1,0 +1,4 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.csproj.CoreCompileInputs.cache
