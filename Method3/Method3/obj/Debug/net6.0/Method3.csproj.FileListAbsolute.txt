@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\bin\Debug\net6.0\Method3.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\bin\Debug\net6.0\Method3.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\bin\Debug\net6.0\Method3.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\bin\Debug\net6.0\Method3.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\bin\Debug\net6.0\Method3.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\refint\Method3.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\Method3.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\Method3\Method3\obj\Debug\net6.0\ref\Method3.dll
