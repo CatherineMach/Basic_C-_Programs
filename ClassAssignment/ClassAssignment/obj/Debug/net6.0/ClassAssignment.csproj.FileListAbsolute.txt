@@ -2,3 +2,13 @@ C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignmen
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.AssemblyInfoInputs.cache
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.AssemblyInfo.cs
 C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\net6.0\ClassAssignment.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\net6.0\ClassAssignment.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\net6.0\ClassAssignment.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\net6.0\ClassAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\net6.0\ClassAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\refint\ClassAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ClassAssignment.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\net6.0\ref\ClassAssignment.dll

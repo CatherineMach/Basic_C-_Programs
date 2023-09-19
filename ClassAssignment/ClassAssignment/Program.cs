@@ -14,16 +14,12 @@ namespace ClassAssignment
         {
             Class1 class1 = new Class1();
 
-            try
-            {
                 Console.WriteLine("enter a number");
                 int userNum = Convert.ToInt32(Console.ReadLine());
 
-            }
-            catch 
-            {
-                Console.WriteLine(Divide.class1(userNum / 2));
-            }
+
+                Console.WriteLine(class1.Divide(userNum / 2));
+
             Console.ReadLine();
         }
     }
