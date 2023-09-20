@@ -10,8 +10,8 @@ namespace Method3
     {
         public void Total(int firstNum, int secondNum)
         {
-            int result = firstNum + secondNum;
-
+            int result = firstNum + 10;
+            Console.WriteLine(secondNum);
 
         }
     }
