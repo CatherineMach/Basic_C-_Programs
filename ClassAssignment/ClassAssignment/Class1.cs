@@ -14,5 +14,18 @@ namespace ClassAssignment
             int result = userNumber / 2;
             Console.WriteLine(result);
         }
+
+        public void Divide(int userNumber, int userNumber2)
+        {
+            int result = userNumber + userNumber2;
+            Console.WriteLine(result);
+        }
+
+        //out
+        public void Message(out string animal)
+        {
+            animal = "hello I am a frog";
+
+        }
     }
 }

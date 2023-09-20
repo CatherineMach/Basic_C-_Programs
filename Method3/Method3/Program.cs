@@ -14,16 +14,11 @@ namespace Method3
         static void Main(string[] args)
         {
             Class1 Nums = new Class1();
-            int firstNum = Convert.ToInt32(Console.ReadLine());
-            int secondNum = Convert.ToInt32(Console.ReadLine());
 
+            Nums.Total(20, 5);
 
+            Nums.Total(firstNum: 10, secondNum: 4);
 
-            static void Numbers (int firstNum, int secondNum)
-            {
-                Console.WriteLine(Total.Nums(firstNum, secondNum));
-                Console.WriteLine(Total.Nums(firstNum));
-            }
         }
 
     }

@@ -18,8 +18,12 @@ namespace ClassAssignment
                 int userNum = Convert.ToInt32(Console.ReadLine());
 
 
-                Console.WriteLine(class1.Divide(userNum / 2));
+                class1.Divide(userNum / 2);
+                class1.Divide(7, 8);
+                class1.Message(out string animal);
+                Console.WriteLine(animal);
 
+                MyStatic.staticMethod();
             Console.ReadLine();
         }
     }

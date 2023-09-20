@@ -8,7 +8,7 @@ namespace Method3
 {
     public class Class1
     {
-        public void Total(int firstNum=5, int secondNum=3)
+        public void Total(int firstNum, int secondNum)
         {
             int result = firstNum + secondNum;
 
