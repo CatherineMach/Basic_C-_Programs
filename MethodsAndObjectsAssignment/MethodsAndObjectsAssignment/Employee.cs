@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjectsAssignment
 {
-    internal class Employee
+    public class Employee : Person
     {
+        public int Id { get; set; }
     }
 }
