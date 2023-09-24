@@ -12,10 +12,8 @@ namespace MethodsAndObjectsAssignment
         public string firstName {  get; set; }
         public string lastName { get; set; }
 
-        public void SayName()
-        {
-            Console.WriteLine("Name: "+ firstName + " " + lastName);
-        }
+        public abstract void SayName();
+
 
     }
 }

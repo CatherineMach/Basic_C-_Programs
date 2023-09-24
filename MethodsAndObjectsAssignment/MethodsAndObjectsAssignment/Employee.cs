@@ -10,6 +10,11 @@ namespace MethodsAndObjectsAssignment
     {
         public int Id { get; set; }
 
+        public override void SayName()
+        {
+            Console.WriteLine("Name: " + firstName + " " +  lastName);
+        }
+
         public void Quit(Person person)
         {
             throw new NotImplementedException();
