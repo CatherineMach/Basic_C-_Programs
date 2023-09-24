@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjectsAssignment
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
+
+        public void Quit(Person person)
+        {
+            throw new NotImplementedException();
+        }
+
     }
+
+    
 }
