@@ -15,9 +15,9 @@ namespace MethodsAndObjectsAssignment
             Console.WriteLine("Name: " + firstName + " " +  lastName);
         }
 
-        public void Quit(Person person)
+        public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("This employee quit!");
         }
 
     }
