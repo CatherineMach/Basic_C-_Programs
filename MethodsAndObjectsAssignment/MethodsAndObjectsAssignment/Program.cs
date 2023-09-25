@@ -16,10 +16,24 @@ namespace MethodsAndObjectsAssignment
             Employee employee = new Employee()
             {
                 firstName = "Sample",
-                lastName = "Student"
+                lastName = "Student",
+                Id = 1
+            };
+
+            Employee employee2 = new Employee()
+            {
+                firstName = "Sample",
+                lastName = "Student2",
+                Id = 2
             };
 
             employee.SayName();
+            IQuittable quitter = new Employee();
+            quitter.Quit();
+
+            Console.WriteLine(employee == employee2);
+            Console.WriteLine(employee != employee2);
+
             Console.ReadLine();
             
 
