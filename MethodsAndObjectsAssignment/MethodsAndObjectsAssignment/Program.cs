@@ -32,7 +32,6 @@ namespace MethodsAndObjectsAssignment
             quitter.Quit();
 
             Console.WriteLine(employee == employee2);
-            Console.WriteLine(employee != employee2);
 
             Console.ReadLine();
             
