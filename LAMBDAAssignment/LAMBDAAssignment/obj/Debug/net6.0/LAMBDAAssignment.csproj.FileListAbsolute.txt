@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\net6.0\LAMBDAAssignment.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\net6.0\LAMBDAAssignment.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\net6.0\LAMBDAAssignment.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\net6.0\LAMBDAAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\net6.0\LAMBDAAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\refint\LAMBDAAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\LAMBDAAssignment.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\net6.0\ref\LAMBDAAssignment.dll
