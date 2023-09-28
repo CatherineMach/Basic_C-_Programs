@@ -12,7 +12,6 @@ namespace TwentyOne
         {
 
 
-
             Deck deck = new Deck();
             deck.Shuffle(3);
 
