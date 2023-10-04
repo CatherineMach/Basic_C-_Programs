@@ -1,0 +1,14 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\net6.0\InputAssignment.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\net6.0\InputAssignment.deps.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\net6.0\InputAssignment.runtimeconfig.json
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\net6.0\InputAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\net6.0\InputAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\refint\InputAssignment.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\InputAssignment.genruntimeconfig.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\net6.0\ref\InputAssignment.dll

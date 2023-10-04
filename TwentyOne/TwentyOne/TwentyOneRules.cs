@@ -28,7 +28,7 @@ namespace TwentyOne
         };
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
-            int aceCount Hand.Count(x => x.Face == Face.Ace);
+            int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
             int value = Hand.Sum(x => _cardValues[x.Face]);
             result[0] = value;
@@ -56,7 +56,7 @@ namespace TwentyOne
         public static bool IsBusted(List<Card> Hand)
         {
             int value = GetAllPossibleHandValues(Hand).Min();
-            if (value == 21) return true;
+            if (value > 21) return true;
             else return false;
         }
 
@@ -78,8 +78,8 @@ namespace TwentyOne
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
             int[] dealerResults = GetAllPossibleHandValues(DealerHand);
 
-            int[] playerScore = playerResults.Where(x => x < 22).Max();
-            int[] dealerScore = dealerResults.Where(x => x < 22).Max();
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
 
             if (playerScore > dealerScore) return true;
             else if (playerScore < dealerScore) return false;
