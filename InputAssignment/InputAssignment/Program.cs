@@ -12,6 +12,8 @@ namespace InputAssignment
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("The date and time now is " + DateTime.Now);
             Console.WriteLine("Type a number");
             int userText = Convert.ToInt32(Console.ReadLine());
 
