@@ -20,7 +20,7 @@ namespace InputAssignment
                 file.Write(DateTime.Now);
                 file.WriteLine(userText);
             }
-            Console.WriteLine("you typed number: " +  userText + " " + DateTime.Now);
+            Console.WriteLine("The Time will be : " + DateTime.Now.AddHours(userText) + " " + userText + " hours from now.");
 
 
         }
