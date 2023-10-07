@@ -17,11 +17,7 @@ namespace InputAssignment
             Console.WriteLine("Type a number");
             int userText = Convert.ToInt32(Console.ReadLine());
 
-            using (StreamWriter file = new StreamWriter(@"C:\Users\flowe\source\numberpicked.txt", true))
-            {
-                file.Write(DateTime.Now);
-                file.WriteLine(userText);
-            }
+           
             Console.WriteLine("The Time will be : " + DateTime.Now.AddHours(userText) + " " + userText + " hours from now.");
 
 
