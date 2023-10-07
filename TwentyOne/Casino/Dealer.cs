@@ -20,6 +20,7 @@ namespace Casino
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\flowe\textexample.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
                 Deck.Cards.RemoveAt(0);

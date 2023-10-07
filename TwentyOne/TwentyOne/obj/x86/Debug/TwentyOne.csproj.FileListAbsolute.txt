@@ -1,0 +1,10 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\ConsoleApplication.exe.config
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\ConsoleApplication.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\ConsoleApplication.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\obj\x86\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\obj\x86\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\TwentyOne\TwentyOne\obj\x86\Debug\TwentyOne.csproj.CopyComplete
