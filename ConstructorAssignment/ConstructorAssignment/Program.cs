@@ -12,9 +12,19 @@ namespace ConstructorAssignment
     {
         static void Main(string[] args)
         {
-            Class1 Class1 = new Class1();
-            Class1 a = new Class1(), b = new Class1("def"), c = new Class1("wow"), d = new Class1("abc");
 
+            const int num = 123;
+            var name = "Donald Duck";
+
+            Console.WriteLine(name + " " + num);
+
+            Class1 a = new Class1(), b = new Class1("def", "kitchen"), c = new Class1("wow");
+
+            Console.WriteLine(a.username + " " + a.location);
+            Console.WriteLine(b.username + " " + b.location);
+            Console.WriteLine(c.username + " " + c.location);
+
+            Console.ReadLine();
         }
     }
 }
