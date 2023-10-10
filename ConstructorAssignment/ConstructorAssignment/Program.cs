@@ -13,7 +13,7 @@ namespace ConstructorAssignment
         static void Main(string[] args)
         {
             Class1 Class1 = new Class1();
-            Class1 a = new Class1(), b = new Class1(456, "def"), c = new Class1(123), d = new Class1("abc");
+            Class1 a = new Class1(), b = new Class1("def"), c = new Class1("wow"), d = new Class1("abc");
 
         }
     }

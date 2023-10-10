@@ -11,8 +11,10 @@ namespace ConstructorAssignment
         public string username;
         public string location;
 
-        public Class1() : this(0, "")
+        public Class1() : this("")
         {
+            const int num = 123;
+            var name = "Catherine";
         }
 
 
@@ -27,7 +29,7 @@ namespace ConstructorAssignment
 
         }
 
-        public Class1(string location) : this(0, location)
+        public Class1(string location) : this(location, "")
         {   
 
         }
