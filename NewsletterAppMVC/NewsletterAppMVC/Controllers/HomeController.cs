@@ -1,4 +1,5 @@
 ﻿using NewsletterAppMVC.Models;
+using NewsletterAppMVC.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -11,7 +12,7 @@ namespace NewsletterAppMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        
         public ActionResult Index()
         {
             return View();
@@ -25,54 +26,20 @@ namespace NewsletterAppMVC.Controllers
             }
             else
             {
-                
 
-                string queryString = @"INSERT INTO SignUps (FirstName, LastName, EmailAddress) VALUES
-                                        (@FirstName, @LastName, @EmailAddress)";
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
+                using (NewsletterEntities db = new NewsletterEntities())
                 {
-                    SqlCommand command = new SqlCommand(queryString, connection);
-                    command.Parameters.Add("@FirstName", SqlDbType.VarChar);
-                    command.Parameters.Add("@LastName", SqlDbType.VarChar);
-                    command.Parameters.Add("@EmailAddress", SqlDbType.VarChar);
+                    var signup = new SignUp();
+                    signup.FirstName = FirstName;
+                    signup.LastName = Lastname;
+                    signup.EmailAddress = EmailAddress;
 
-                    command.Parameters["@FirstName"].Value = FirstName;
-                    command.Parameters["@LastName"].Value = Lastname;
-                    command.Parameters["@EmailAddress"].Value = EmailAddress;
-
-                    connection.Open();
-                    command.ExecuteNonQuery();
-                    connection.Close();
+                    db.SignUps.Add(signup);
+                    db.SaveChanges();
                 }
+
                 return View("Success");
             }
-        }
-
-        public ActionResult Admin()
-        {
-            string queryString = @"SELECT Id, FirstName, LastName, EmailAddress from Signups";
-            List<NewsletterSignUp> signups = new List<NewsletterSignUp>();
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                SqlCommand command = new SqlCommand(queryString, connection);
-
-                connection.Open();
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                while (reader.Read())
-                {
-                    var signup = new NewsletterSignUp();
-                    signup.Id = Convert.ToInt32(reader["Id"]);
-                    signup.FirstName = reader["FirstName"].ToString();
-                    signup.LastName = reader["LastName"].ToString();
-                    signup.EmailAddress = reader["EmailAddress"].ToString();
-                    signups.Add(signup);
-                }
-            }
-            return View();
         }
     }
 }
