@@ -1,0 +1,4 @@
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\StudentDb\StudentDb\obj\Debug\netcoreapp3.1\StudentDb.csproj.AssemblyReference.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\StudentDb\StudentDb\obj\Debug\netcoreapp3.1\StudentDb.AssemblyInfoInputs.cache
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\StudentDb\StudentDb\obj\Debug\netcoreapp3.1\StudentDb.AssemblyInfo.cs
+C:\Users\flowe\OneDrive\Desktop\Basic_C#_Programs\StudentDb\StudentDb\obj\Debug\netcoreapp3.1\StudentDb.csproj.CoreCompileInputs.cache
